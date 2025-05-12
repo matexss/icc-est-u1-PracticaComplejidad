@@ -59,12 +59,22 @@ Los tamaños de los arreglos aleatorios fueron:
 
 ## **Conclusiones**
 
-**Conslusion est Mateo Morejon**
-- Los algoritmos burbuja, burbuja optimizado, selección e inserció tienen una complejidad O(n²), lo cual hace que se vuelvan ineficientes con     arreglos grandes. El algoritmo shell sort mostró un rendimiento superior debido a su complejidad promedio más baja (O(n log n)). A mayor tamaño de entrada, se vuelve más clara la diferencia de eficiencia entre los métodos. Para aplicaciones reales con grandes volúmenes de datos, se deben preferir algoritmos más eficientes como Shell, Merge o Quick Sort.
-**Conslusion est Sebastian Ceron**
-En el desarrollo de este trabajo se logra comparar los distintos métodos de ordenamiento, entre ellos están Burbuja, Burbuja Mejorado, Selección, Inserción y Shell Sort los cuales aplican el análisis empírico del tiempo de ejecución según el tamaño de entrada. Al realizar las pruebas se pudo ver que hay métodos que se demoran mucho como el burbuja y otros que son muy rápidos como el Shell ya que demostró un comportamiento significativamente mejor, permite procesar grandes volúmenes de datos en tiempos considerablemente bajos viendo así la complejidad bajo la notación Big-O. Pudimos ver que se demoró alrededor de 30 minutos en mostrar las gráficas ya que es por el hecho del procesamiento de los tamaños, esto nos obligó a reducir los tamaños de prueba durante el desarrollo de la práctica para validar que valga de manera correcta los diferentes métodos.
-- 
+### **Conclusión - Mateo Morejón**
+
+- Los algoritmos Burbuja, Burbuja Optimizado, Selección e Inserción tienen una complejidad O(n²), lo cual hace que se vuelvan ineficientes con arreglos grandes.  
+- El algoritmo Shell Sort mostró un rendimiento superior debido a su complejidad promedio más baja (O(n log n)).  
+- A mayor tamaño de entrada, se vuelve más clara la diferencia de eficiencia entre los métodos.  
+- Para aplicaciones reales con grandes volúmenes de datos, se deben preferir algoritmos más eficientes como Shell, Merge o Quick Sort.
+
 ---
+
+### **Conclusión - Sebastián Cerón**
+
+- En el desarrollo de este trabajo se logró comparar los distintos métodos de ordenamiento: Burbuja, Burbuja Mejorado, Selección, Inserción y Shell Sort, aplicando un análisis empírico del tiempo de ejecución según el tamaño de entrada.  
+- Al realizar las pruebas, se pudo observar que métodos como Burbuja tardan considerablemente, mientras que Shell demostró un comportamiento mucho más eficiente.  
+- Shell permite procesar grandes volúmenes de datos en tiempos bajos, evidenciando su ventaja bajo la notación Big-O.  
+- Durante el desarrollo, la generación de gráficas tomó hasta 30 minutos debido al procesamiento de datos de gran tamaño, lo cual obligó a reducir los tamaños de prueba para una validación efectiva de los métodos.
+
 
 ## **Repositorio**
 
