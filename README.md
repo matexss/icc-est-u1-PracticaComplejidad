@@ -67,7 +67,7 @@ Los tamaños de los arreglos aleatorios fueron:
 
 ## **Repositorio**
 
-[Enlace al repositorio en GitHub](https://github.com/matexss/TeoriaDeComplejidad)
+[Enlace al repositorio en GitHub](https://github.com/matexss/icc-est-u1-PracticaComplejidad)
 
 
 ---
