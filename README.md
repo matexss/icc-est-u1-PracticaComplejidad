@@ -58,10 +58,10 @@ Los tamaños de los arreglos aleatorios fueron:
 
 ## **Conclusiones**
 
-- Los algoritmos burbuja, burbuja optimizado, selección e inserció tienen una complejidad O(n²), lo cual hace que se vuelvan ineficientes con     arreglos grandes.
-- El algoritmo shell sort mostró un rendimiento superior debido a su complejidad promedio más baja (O(n log n)).
-- A mayor tamaño de entrada, se vuelve más clara la diferencia de eficiencia entre los métodos.
-- Para aplicaciones reales con grandes volúmenes de datos, se deben preferir algoritmos más eficientes como Shell, Merge o Quick Sort.
+- Los algoritmos burbuja, burbuja optimizado, selección e inserció tienen una complejidad O(n²), lo cual hace que se vuelvan ineficientes con     arreglos grandes. El algoritmo shell sort mostró un rendimiento superior debido a su complejidad promedio más baja (O(n log n)).
+ 
+-A mayor tamaño de entrada, se vuelve más clara la diferencia de eficiencia entre los métodos.
+ Para aplicaciones reales con grandes volúmenes de datos, se deben preferir algoritmos más eficientes como Shell, Merge o Quick Sort.
 
 ---
 
