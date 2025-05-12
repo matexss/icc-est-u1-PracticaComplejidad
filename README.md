@@ -71,13 +71,6 @@ Los tamaños de los arreglos aleatorios fueron:
 [Enlace al repositorio en GitHub](https://github.com/matexss/icc-est-u1-PracticaComplejidad)
 
 
----
-
-## **Grafica**
-
-
----
-
 ##  Recomendaciones
 
 - Asegurar que cada algoritmo reciba una copia del arreglo sin haber sido previamente ordenado.
