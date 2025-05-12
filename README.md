@@ -53,7 +53,7 @@ Los tamaños de los arreglos aleatorios fueron:
 
 ###  Gráfica comparativa
 
-![Gráfica de comparación](Mateo_Morejon_-_2_25-_5-11_23_13.png)
+![Gráfica de comparación](grafica.jpg)
 
 ---
 
